@@ -29,6 +29,12 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MKKSANDI&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MKKSANDI/MKKSANDI/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
+
 <p align="center">
   <a href="https://github.com/MKKSANDI?tab=repositories">
     <img src="https://img.shields.io/badge/View%20my%20repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="View my repositories" />
