@@ -14,7 +14,10 @@
 ## About Me
 
 - I am currently learning **Python, C#, Rust, and JavaScript**
-- All of my projects are available at [github.com/MKKSANDI?tab=repositories](https://github.com/MKKSANDI?tab=repositories)
+- All of my projects are available here:
+  <a href="https://github.com/MKKSANDI?tab=repositories">
+    <img src="https://img.shields.io/badge/MKKSANDI-Repositories-111827?style=flat&logo=github&logoColor=white&labelColor=24292f" alt="MKKSANDI GitHub repositories" />
+  </a>
 - Ask me about **CyberSec**
 
 ## Languages and Tools
