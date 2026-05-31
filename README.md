@@ -32,7 +32,7 @@
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MKKSANDI/MKKSANDI/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/MKKSANDI/MKKSANDI/main/github-user-contribution.svg" alt="GitHub contribution snake animation" />
 </p>
 
 <p align="center">
