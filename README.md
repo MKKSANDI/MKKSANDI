@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=MKKSANDI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&color=0:111827,50:2563eb,100:22c55e" alt="MKKSANDI" />
 </div>
 
-<h3 align="center">17 year old Computer Science enthusiast</h3>
+<h3 align="center">17 year old Computer Science lover</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mkksandi&label=Profile%20views&color=2563eb&style=flat" alt="Profile views" />
