@@ -18,7 +18,7 @@
   <a href="https://github.com/MKKSANDI?tab=repositories">
     <img src="https://img.shields.io/badge/MKKSANDI-Repositories-111827?style=flat&logo=github&logoColor=white&labelColor=24292f" alt="MKKSANDI GitHub repositories" />
   </a>
-- Ask me about **CyberSec**
+- Ask me about **anything**
 
 ## Languages and Tools
 
